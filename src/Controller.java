@@ -9,7 +9,10 @@ import java.awt.event.ActionListener;
 
 public class Controller implements ActionListener {
 
-	@Override
+	public Controller()
+	{
+		
+	}
 	public void actionPerformed(ActionEvent arg0) {
 		// TODO Auto-generated method stub
 		
