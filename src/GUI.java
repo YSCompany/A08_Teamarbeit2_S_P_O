@@ -2,15 +2,18 @@ import javax.swing.*;
 import java.awt.*;
 
 /**
- *  Klasse für das Frame
+ * Frameklasse zum Spiel LightsOut
  * @author Purger Aaron
- * @version 1.2
+ * @version 17.12.2014
  *
  */
 public class GUI extends JFrame{
 
-	private Panel p = new Panel();
-
+	private Panel p = new Panel(); // Neues Panel erzeugen
+	
+	/**
+	 * Konstruktor für die Klasse 
+	 */
 	public GUI(){
 		super("Lights Out");
 		this.setSize(500, 500);
@@ -20,9 +23,4 @@ public class GUI extends JFrame{
 		this.setVisible(true);
 		
 	}
-	
-	public static void main(String[] args){
-		new GUI();
-	}
-	
 }
