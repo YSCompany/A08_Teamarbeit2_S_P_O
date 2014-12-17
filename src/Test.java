@@ -1,16 +1,12 @@
 /**
- * 
- */
-
-/**
- * Die Test-Klasse zum Spiel LightsOut
+ * Die Testklasse zum Spiel LightsOut
  * @author Yehezkel Sivan
- * @version 2014.12.17, v1.0
+ * @version 17.12.2014
  */
 public class Test {
 
 	/**
-	 * Test!
+	 * Testet die Klasse Controller
 	 * @param args
 	 */
 	public static void main(String[] args) {
