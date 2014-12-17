@@ -1,7 +1,7 @@
 /**
  * Die Testklasse zum Spiel LightsOut
  * @author Yehezkel Sivan
- * @version 17.12.2014
+ * @version 12.12.2014
  */
 public class Test {
 
