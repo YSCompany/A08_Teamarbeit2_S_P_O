@@ -17,6 +17,12 @@ Aufgaben:
 
 Die Aufteilung der Aufgaben im Team ist insoweit frei, dass jeder einen gleichwertigen Teil.
 
+Team: 
+
+    Yehezkel Sivan
+    Aaron Purger
+    Ahmet Özsoy
+    
 Arbeitsaufteilung:
 
     Yehezkel Sivan: Model
